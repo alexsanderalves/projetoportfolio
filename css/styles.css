@@ -1,0 +1,12 @@
+html,body{
+  margin: 0;
+}
+
+body{
+  background: url("https://raw.githubusercontent.com/alexsanderalves/projetoportfolio/master/Sem%20t%C3%ADtulo.png") no-repeat;
+  background-size: cover;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+}
+
